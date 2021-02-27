@@ -43,7 +43,7 @@ npm install -g yarn
 git clone https://github.com/VictorLira-DEV/move-it
 
 #Entre na pasta clonada:
-cd Move-It
+cd move-it
 
 #Instale as dependências
 npm install
