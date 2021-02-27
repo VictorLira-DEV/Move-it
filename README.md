@@ -2,7 +2,7 @@
 
 Você já passou horas trabalhando na frente do computador e no dia seguinte sentiu desconforto na coluna ou dores nas vistas? <br />
 O MoveIt veio para solucionar esse impasse. Além de melhorar a sua qualidade de vida ajudará também na sua concentração. <br />
-usando uma técnica similar ao Pomodoro, após 25 minutos de estudos, vc receberá um desafio aleatório para melhorar sua evitar futuros possíveis problemas como dores na coluna, pescoço olhos entre outros,
+usando uma técnica similar ao Pomodoro, após 25 minutos de estudos, vc receberá um desafio aleatório para melhorar sua saúde e evitar futuros possíveis problemas como dores na coluna, pescoço olhos entre outros,
  ao completar um desafio você receberá XP e irá acompanhar o seu aumento de nível]
 
 
