@@ -40,7 +40,7 @@ projeto desenvolvido na semana NLW oferecida pela Rocketseat, para levar os alun
 npm install -g yarn
 
 #Clone o repositório
-git clone https://github.com/LarissaCalmeida/Move-It
+git clone https://github.com/VictorLira-DEV/move-it
 
 #Entre na pasta clonada:
 cd Move-It
