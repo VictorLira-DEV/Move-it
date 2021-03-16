@@ -10,7 +10,7 @@ usando uma técnica similar ao Pomodoro, após 25 minutos de estudos, vc receber
   <img  src="https://ik.imagekit.io/Victorliradev/Animated_GIF-downsized_large__XgzFnRC3.gif">
 </h1>
 
-## Sobre
+## :mag: Sobre
 projeto desenvolvido na semana NLW oferecida pela Rocketseat, para levar os alunos para o próximo nível, nesse projeto estudamos a fundo o ecossistema React, colocamos em prática conceitos de Hooks, context API, componententes funcionais, css module, deploy da aplicação feita no Vercel confira ---> https://moveit-nxnlw7u4d-victorlira-dev.vercel.app/
 
 
@@ -24,7 +24,7 @@ projeto desenvolvido na semana NLW oferecida pela Rocketseat, para levar os alun
 - TypeScript
 <br />
 
-## 💼 Ferramentas de Desenvolvimento:
+## 🛠 💼 Ferramentas de Desenvolvimento:
 - Visual Studio Code
 - Git Bash
 <br />
@@ -32,7 +32,7 @@ projeto desenvolvido na semana NLW oferecida pela Rocketseat, para levar os alun
 ---
 
 
-## computer: Como executar o projeto:
+## :key: computer: Como executar o projeto:
 
 ```sh
 
